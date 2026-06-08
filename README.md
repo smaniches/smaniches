@@ -4,7 +4,7 @@ I build production-grade, provenance-verified tooling at the intersection of AI
 and bioinformatics: software that lets an AI agent reach authoritative biomedical
 data and prove every answer against its primary source.
 
-TOPOLOGICA LLC (independent research lab) · ORCID [0009-0005-6480-1987](https://orcid.org/0009-0005-6480-1987)
+Founder, TOPOLOGICA LLC (independent research lab) · ORCID [0009-0005-6480-1987](https://orcid.org/0009-0005-6480-1987)
 
 ### What I build
 - **Provenance-first MCP servers** — Model Context Protocol servers that wrap
@@ -38,4 +38,4 @@ single-author work.
   and a deployable rescue.
 
 ### Contact
-GitHub [@smaniches](https://github.com/smaniches) · ORCID [0009-0005-6480-1987](https://orcid.org/0009-0005-6480-1987) · TOPOLOGICA LLC
+[GitHub](https://github.com/smaniches) · [ORCID](https://orcid.org/0009-0005-6480-1987) · [LinkedIn](https://www.linkedin.com/in/santiagomaniches) · [topologica.ai](https://topologica.ai)

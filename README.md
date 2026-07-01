@@ -6,25 +6,25 @@ My strongest public work is in agentic research infrastructure: tools that let A
 
 ### Lead public work
 
-- **uniprot-mcp** — UniProt MCP server with per-response SHA-256 provenance, release pinning, verification, and offline replay.
-- **semantic-scholar-mcp** — Semantic Scholar MCP server with 14 typed tools for paper search, citation graphs, author profiles, and recommendations.
-- **alphafold-sovereign-mcp** — local-first biomedical MCP over AlphaFold DB and related public sources, with a SQLite knowledge graph and explicit clinical-use limits.
+- **[uniprot-mcp](https://github.com/smaniches/uniprot-mcp)** — UniProt MCP server with per-response SHA-256 provenance, release pinning, verification, and offline replay.
+- **[semantic-scholar-mcp](https://github.com/smaniches/semantic-scholar-mcp)** — Semantic Scholar MCP server with 14 typed tools for paper search, citation graphs, author profiles, and recommendations.
+- **[alphafold-sovereign-mcp](https://github.com/smaniches/alphafold-sovereign-mcp)** — local-first biomedical MCP over AlphaFold DB and related public sources, with a SQLite knowledge graph and explicit clinical-use limits.
 
 ### Research software
 
-- **TopoGeoML** — topology-aware ML toolkit plus a preregistered graph-classification study whose headline result is negative.
-- **cohomology-wall** — mathematical/reproducibility archive for a tetraquadric Calabi-Yau cohomology-jumping calculation.
-- **GROUPOID** — pre-alpha groupoid/sheaf/Riemannian aggregation prototype for federated learning.
+- **[TopoGeoML](https://github.com/smaniches/TopoGeoML)** — topology-aware ML toolkit plus a preregistered graph-classification study whose headline result is negative.
+- **[cohomology-wall](https://github.com/smaniches/cohomology-wall)** — mathematical/reproducibility archive for a tetraquadric Calabi-Yau cohomology-jumping calculation.
+- **[GROUPOID](https://github.com/smaniches/GROUPOID)** — pre-alpha groupoid/sheaf/Riemannian aggregation prototype for federated learning.
 
 ### AI safety / biosecurity research
 
-- **homology-cliff** — ESM-2 protein-retrieval failure-mode study with preregistered evidence, calibration analysis, and explicit curation limits.
+- **[homology-cliff](https://github.com/smaniches/homology-cliff)** — ESM-2 protein-retrieval failure-mode study with preregistered evidence, calibration analysis, and explicit curation limits.
 
-### Supporting / historical
+### Supporting work
 
-- **democafa_package** — CAFA-style protein-function prediction data and evaluation utilities.
-- **LAFA_container_guide** — containerization guide for protein-function prediction methods.
-- **icbo-ai-tutorial** — tutorial/codespace material for ontology-agent workflows.
+- **[democafa_package](https://github.com/smaniches/democafa_package)** — CAFA-style protein-function prediction data and evaluation utilities.
+- **[LAFA_container_guide](https://github.com/smaniches/LAFA_container_guide)** — containerization guide for protein-function prediction methods.
+- **[icbo-ai-tutorial](https://github.com/smaniches/icbo-ai-tutorial)** — tutorial/codespace material for ontology-agent workflows.
 
 ### Contact
 

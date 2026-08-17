@@ -12,6 +12,7 @@ My strongest public work is in agentic research infrastructure: tools that let A
 
 ### Research software
 
+- **[pca-topology-crossdomain-replication](https://github.com/smaniches/pca-topology-crossdomain-replication)**: preregistered cross-domain replication study of PCA(50) effects on H1 persistent-homology signal across four omics cohorts, with confirmatory replications, ablation and confound analyses, a complete manuscript, and a citable Zenodo record.
 - **[TopoGeoML](https://github.com/smaniches/TopoGeoML)** — topology-aware ML toolkit plus a preregistered graph-classification study whose headline result is negative.
 - **[cohomology-wall](https://github.com/smaniches/cohomology-wall)** — mathematical/reproducibility archive for a tetraquadric Calabi-Yau cohomology-jumping calculation.
 - **[GROUPOID](https://github.com/smaniches/GROUPOID)** — pre-alpha groupoid/sheaf/Riemannian aggregation prototype for federated learning.

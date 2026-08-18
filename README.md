@@ -21,11 +21,13 @@ My strongest public work is in agentic research infrastructure: tools that let A
 
 - **[homology-cliff](https://github.com/smaniches/homology-cliff)** — ESM-2 protein-retrieval failure-mode study with preregistered evidence, calibration analysis, and explicit curation limits.
 
-### Supporting work
+### Historical / archived supporting work
 
-- **[democafa_package](https://github.com/smaniches/democafa_package)** — CAFA-style protein-function prediction data and evaluation utilities.
-- **[LAFA_container_guide](https://github.com/smaniches/LAFA_container_guide)** — containerization guide for protein-function prediction methods.
-- **[icbo-ai-tutorial](https://github.com/smaniches/icbo-ai-tutorial)** — tutorial/codespace material for ontology-agent workflows.
+The repositories below are retained as historical supporting material and are archived rather than actively maintained.
+
+- **[democafa_package](https://github.com/smaniches/democafa_package)** — archived CAFA-style protein-function prediction data and evaluation utilities.
+- **[LAFA_container_guide](https://github.com/smaniches/LAFA_container_guide)** — archived containerization guide for protein-function prediction methods.
+- **[icbo-ai-tutorial](https://github.com/smaniches/icbo-ai-tutorial)** — archived tutorial/codespace material for ontology-agent workflows.
 
 ### Contact
 

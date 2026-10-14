@@ -29,6 +29,10 @@ The repositories below are retained as historical supporting material and are ar
 - **[LAFA_container_guide](https://github.com/smaniches/LAFA_container_guide)** — archived containerization guide for protein-function prediction methods.
 - **[icbo-ai-tutorial](https://github.com/smaniches/icbo-ai-tutorial)** — archived tutorial/codespace material for ontology-agent workflows.
 
+### Research and attribution
+
+I lead these projects independently and am the sole scientific author of their research contributions. AI-assisted tools support parts of implementation, analysis workflows, and internal review; research design, interpretation, and release decisions remain my responsibility. Upstream software, data, and prior research are credited in the respective repositories.
+
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/santiagomaniches) · [ORCID](https://orcid.org/0009-0005-6480-1987) · [Kaggle](https://www.kaggle.com/santmani) · [GitHub](https://github.com/smaniches)

@@ -12,14 +12,14 @@ My strongest public work is in agentic research infrastructure: tools that let A
 
 ### Research software
 
-- **[pca-topology-crossdomain-replication](https://github.com/smaniches/pca-topology-crossdomain-replication)**: preregistered cross-domain replication study of PCA(50) effects on H1 persistent-homology signal across four omics cohorts, with confirmatory replications, ablation and confound analyses, a complete manuscript, and a citable Zenodo record.
+- **[pca-topology-crossdomain-replication](https://github.com/smaniches/pca-topology-crossdomain-replication)**: research on PCA(50) and H1 persistence across omics cohorts, with a corrected matched-null comparison, explicit methodological corrections, executable audit records, and versioned Zenodo archives. The matched study supports dependence-sensitive geometry, not an established biological topology beyond covariance; independent-cohort validation remains a separate research task.
 - **[TopoGeoML](https://github.com/smaniches/TopoGeoML)** — topology-aware ML toolkit plus a preregistered graph-classification study whose headline result is negative.
 - **[cohomology-wall](https://github.com/smaniches/cohomology-wall)** — mathematical/reproducibility archive for a tetraquadric Calabi-Yau cohomology-jumping calculation.
 - **[GROUPOID](https://github.com/smaniches/GROUPOID)** — pre-alpha groupoid/sheaf/Riemannian aggregation prototype for federated learning.
 
 ### AI safety / biosecurity research
 
-- **[homology-cliff](https://github.com/smaniches/homology-cliff)** — ESM-2 protein-retrieval failure-mode study with preregistered evidence, calibration analysis, and explicit curation limits.
+- **[homology-cliff](https://github.com/smaniches/homology-cliff)** — ESM-2 protein-retrieval failure-mode study with archived experimental evidence, calibration analysis, and explicit limits on preregistration chronology, label curation, and external generalization.
 
 ### Historical / archived supporting work
 

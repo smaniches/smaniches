@@ -1,38 +1,39 @@
-## Santiago Maniches
+# Santiago Maniches
 
-I build provenance-first scientific AI systems: MCP servers, bioinformatics agents, and reproducible ML/research tooling.
+**Software engineering | AI/ML infrastructure | Scientific computing**
 
-My strongest public work is in agentic research infrastructure: tools that let AI systems query scientific sources with typed APIs, provenance records, verification hooks, and explicit limitations.
+I build Python software for AI-assisted research and data-intensive systems. My focus is the engineering that has to work beyond a demonstration: reliable APIs, explicit data contracts, source traceability, offline behavior, regression tests, and reproducible releases.
 
-### Lead public work
+I am pursuing software engineering, AI/ML infrastructure, and research engineering roles. The work below is public, inspectable code.
 
-- **[uniprot-mcp](https://github.com/smaniches/uniprot-mcp)** — UniProt MCP server with per-response SHA-256 provenance, release pinning, verification, and offline replay.
-- **[semantic-scholar-mcp](https://github.com/smaniches/semantic-scholar-mcp)** — Semantic Scholar MCP server with 14 typed tools for paper search, citation graphs, author profiles, and recommendations.
-- **[alphafold-sovereign-mcp](https://github.com/smaniches/alphafold-sovereign-mcp)** — local-first biomedical MCP over AlphaFold DB and related public sources, with a SQLite knowledge graph and explicit clinical-use limits.
+## Selected open-source systems
 
-### Research software
+### [UniProt MCP Server](https://github.com/smaniches/uniprot-mcp) | Scientific APIs and verifiable data
 
-- **[pca-topology-crossdomain-replication](https://github.com/smaniches/pca-topology-crossdomain-replication)**: research on PCA(50) and H1 persistence across omics cohorts, with a corrected matched-null comparison, explicit methodological corrections, executable audit records, and versioned Zenodo archives. The matched study supports dependence-sensitive geometry, not an established biological topology beyond covariance; independent-cohort validation remains a separate research task.
-- **[TopoGeoML](https://github.com/smaniches/TopoGeoML)** — topology-aware ML toolkit plus a preregistered graph-classification study whose headline result is negative.
-- **[cohomology-wall](https://github.com/smaniches/cohomology-wall)** — mathematical/reproducibility archive for a tetraquadric Calabi-Yau cohomology-jumping calculation.
-- **[GROUPOID](https://github.com/smaniches/GROUPOID)** — pre-alpha groupoid/sheaf/Riemannian aggregation prototype for federated learning.
+A Python MCP server exposing **41 documented tools** for protein and variant research. It preserves source URLs, retrieval times, release identifiers when provided, and SHA-256 evidence. Its UniProt verification path can detect when a previously captured upstream record has changed; it does not certify third-party biomedical conclusions.
 
-### AI safety / biosecurity research
+**Inspect:** [tool documentation](https://github.com/smaniches/uniprot-mcp/blob/main/docs/tools.md) · [real TP53 capture and contract test](https://github.com/smaniches/uniprot-mcp/blob/main/tests/contract/test_tp53_capture_binding.py) · [release reproduction script](https://github.com/smaniches/uniprot-mcp/blob/main/scripts/replicate.sh)
 
-- **[homology-cliff](https://github.com/smaniches/homology-cliff)** — ESM-2 protein-retrieval failure-mode study with archived experimental evidence, calibration analysis, and explicit limits on preregistration chronology, label curation, and external generalization.
+### [Semantic Scholar MCP Server](https://github.com/smaniches/semantic-scholar-mcp) | API resilience and software supply chain
 
-### Historical / archived supporting work
+A **14-tool** MCP integration for literature search, citation graphs, authors, and recommendations. Engineering work includes identifier validation, bounded retries and rate limiting, typed error handling, and installable Python and container releases with build provenance and a software bill of materials.
 
-The repositories below are retained as historical supporting material and are archived rather than actively maintained.
+**Inspect:** [HTTP client](https://github.com/smaniches/semantic-scholar-mcp/blob/main/src/semantic_scholar_mcp/client.py) · [input validators](https://github.com/smaniches/semantic-scholar-mcp/blob/main/src/semantic_scholar_mcp/validators.py) · [release workflow](https://github.com/smaniches/semantic-scholar-mcp/blob/main/.github/workflows/publish.yml)
 
-- **[democafa_package](https://github.com/smaniches/democafa_package)** — archived CAFA-style protein-function prediction data and evaluation utilities.
-- **[LAFA_container_guide](https://github.com/smaniches/LAFA_container_guide)** — archived containerization guide for protein-function prediction methods.
-- **[icbo-ai-tutorial](https://github.com/smaniches/icbo-ai-tutorial)** — archived tutorial/codespace material for ontology-agent workflows.
+### [AlphaFold Sovereign MCP](https://github.com/smaniches/alphafold-sovereign-mcp) | Local-first biomedical integration
 
-### Research and attribution
+A Python MCP server connecting AlphaFold DB and other public biomedical sources, with a local SQLite knowledge graph. An explicit offline mode refuses outbound network requests. Cross-source joins, identifier matching, and derived research heuristics retain documented uncertainty; the system is not clinically validated.
 
-I lead these projects independently and am the sole scientific author of their research contributions. AI-assisted tools support parts of implementation, analysis workflows, and internal review; research design, interpretation, and release decisions remain my responsibility. Upstream software, data, and prior research are credited in the respective repositories.
+**Inspect:** [knowledge graph](https://github.com/smaniches/alphafold-sovereign-mcp/blob/main/src/alphafold_sovereign/storage/knowledge_graph.py) · [status and acceptance boundaries](https://github.com/smaniches/alphafold-sovereign-mcp/blob/main/STATUS.md) · [known limitations](https://github.com/smaniches/alphafold-sovereign-mcp/blob/main/LIMITATIONS.md)
 
-### Contact
+## Scientific and numerical software
 
-[LinkedIn](https://www.linkedin.com/in/santiagomaniches) · [ORCID](https://orcid.org/0009-0005-6480-1987) · [Kaggle](https://www.kaggle.com/santmani) · [GitHub](https://github.com/smaniches)
+- **[TopoGeoML](https://github.com/smaniches/TopoGeoML):** Python toolkit for topology-aware ML, including train-fitted transforms, simplicial operators, and experimental PyTorch losses. Its separate graph-classification study reports negative results rather than claiming an uplift.
+- **[PCA and persistent-homology replication](https://github.com/smaniches/pca-topology-crossdomain-replication):** Reproducible multi-cohort analysis, controls, explicit methodological corrections, and an executable audit trail. Biological interpretation remains bounded by the evidence.
+- **[Homology Cliff](https://github.com/smaniches/homology-cliff):** Frozen protein-language-model retrieval evaluation, archived computational evidence, calibration/failure analysis, and a published erratum.
+
+## How I evaluate my work
+
+I separate source-reported facts from derived inference, verify artifacts against their actual inputs, preserve negative results, and document failure modes before making deployment claims. Tests, signatures, provenance receipts, and AI-assisted reviews do not replace independent scientific or security validation. AI tools have assisted implementation and internal review; I direct the work and remain responsible for the conclusions and releases.
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/santiagomaniches) · [ORCID](https://orcid.org/0009-0005-6480-1987) · [Kaggle](https://www.kaggle.com/santmani)

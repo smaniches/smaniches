@@ -23,13 +23,15 @@ My strongest public work is in agentic research infrastructure: tools that let A
 
 - **[homology-cliff](https://github.com/smaniches/homology-cliff)** — ESM-2 protein-retrieval failure-mode study with archived experimental evidence, calibration analysis, and explicit limits on preregistration chronology, label curation, and external generalization.
 
-### Historical / archived supporting work
+### Archived third-party reference forks
 
-The repositories below are retained as historical supporting material and are archived rather than actively maintained.
+These five repositories are archived forks of other maintainers' projects. They are retained for reference, **not presented as original research, original software, or actively maintained releases**.
 
-- **[democafa_package](https://github.com/smaniches/democafa_package)** — archived CAFA-style protein-function prediction data and evaluation utilities.
-- **[LAFA_container_guide](https://github.com/smaniches/LAFA_container_guide)** — archived containerization guide for protein-function prediction methods.
-- **[icbo-ai-tutorial](https://github.com/smaniches/icbo-ai-tutorial)** — archived tutorial/codespace material for ontology-agent workflows.
+- **[democafa_package](https://github.com/smaniches/democafa_package)** — archived fork of [anphan0828/democafa_package](https://github.com/anphan0828/democafa_package); CAFA-style prediction and evaluation reference.
+- **[LAFA_container_guide](https://github.com/smaniches/LAFA_container_guide)** — archived fork of [anphan0828/LAFA_container_guide](https://github.com/anphan0828/LAFA_container_guide); containerization reference for protein-function prediction.
+- **[icbo-ai-tutorial](https://github.com/smaniches/icbo-ai-tutorial)** — archived fork of [ai4curation/icbo-ai-tutorial](https://github.com/ai4curation/icbo-ai-tutorial); ontology and AI tutorial reference.
+- **[awesome-mcp-servers](https://github.com/smaniches/awesome-mcp-servers)** — archived fork of [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers); MCP server directory reference.
+- **[awesome-remote-mcp-servers](https://github.com/smaniches/awesome-remote-mcp-servers)** — archived fork of [Appnova-EU-OU/awesome-remote-mcp-servers](https://github.com/Appnova-EU-OU/awesome-remote-mcp-servers); remote MCP server directory reference.
 
 ### Research and attribution
 

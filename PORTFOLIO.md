@@ -19,8 +19,13 @@ A short router for public repositories. See each repository for its own scope, c
 
 - **[homology-cliff](https://github.com/smaniches/homology-cliff)** — ESM-2 protein-retrieval failure-mode study with preregistered evidence, calibration analysis, and curation limits.
 
-## Supporting / historical
+## Archived third-party reference forks
 
-- **[democafa_package](https://github.com/smaniches/democafa_package)** — archived CAFA-style protein-function prediction data and evaluation utilities.
-- **[LAFA_container_guide](https://github.com/smaniches/LAFA_container_guide)** — archived containerization guide for protein-function prediction methods.
-- **[icbo-ai-tutorial](https://github.com/smaniches/icbo-ai-tutorial)** — archived tutorial/codespace material for ontology-agent workflows.
+These five repositories originate from other authors. Their archived copies are references, **not original projects or independently maintained releases**.
+
+- **[democafa_package](https://github.com/smaniches/democafa_package)** — archived fork of [anphan0828/democafa_package](https://github.com/anphan0828/democafa_package); CAFA-style prediction and evaluation reference.
+- **[LAFA_container_guide](https://github.com/smaniches/LAFA_container_guide)** — archived fork of [anphan0828/LAFA_container_guide](https://github.com/anphan0828/LAFA_container_guide); containerization reference for protein-function prediction.
+- **[icbo-ai-tutorial](https://github.com/smaniches/icbo-ai-tutorial)** — archived fork of [ai4curation/icbo-ai-tutorial](https://github.com/ai4curation/icbo-ai-tutorial); ontology and AI tutorial reference.
+- **[awesome-mcp-servers](https://github.com/smaniches/awesome-mcp-servers)** — archived fork of [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers); MCP server directory reference.
+- **[awesome-remote-mcp-servers](https://github.com/smaniches/awesome-remote-mcp-servers)** — archived fork of [Appnova-EU-OU/awesome-remote-mcp-servers](https://github.com/Appnova-EU-OU/awesome-remote-mcp-servers); remote MCP server directory reference.
+

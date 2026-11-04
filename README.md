@@ -10,12 +10,14 @@ My strongest public work is in agentic research infrastructure: tools that let A
 - **[semantic-scholar-mcp](https://github.com/smaniches/semantic-scholar-mcp)** — Semantic Scholar MCP server with 14 typed tools for paper search, citation graphs, author profiles, and recommendations.
 - **[alphafold-sovereign-mcp](https://github.com/smaniches/alphafold-sovereign-mcp)** — local-first biomedical MCP over AlphaFold DB and related public sources, with a SQLite knowledge graph and explicit clinical-use limits.
 
+**Current published releases:** [UniProt MCP](https://github.com/smaniches/uniprot-mcp/releases/latest) · [Semantic Scholar MCP](https://github.com/smaniches/semantic-scholar-mcp/releases/latest) · [AlphaFold Sovereign MCP](https://github.com/smaniches/alphafold-sovereign-mcp/releases/latest). See each project's CI, release verification, and limitations for evidence of what has actually been validated.
+
 ### Research software
 
 - **[pca-topology-crossdomain-replication](https://github.com/smaniches/pca-topology-crossdomain-replication)**: research on PCA(50) and H1 persistence across omics cohorts, with a corrected matched-null comparison, explicit methodological corrections, executable audit records, and versioned Zenodo archives. The matched study supports dependence-sensitive geometry, not an established biological topology beyond covariance; independent-cohort validation remains a separate research task.
 - **[TopoGeoML](https://github.com/smaniches/TopoGeoML)** — topology-aware ML toolkit plus a preregistered graph-classification study whose headline result is negative.
 - **[cohomology-wall](https://github.com/smaniches/cohomology-wall)** — mathematical/reproducibility archive for a tetraquadric Calabi-Yau cohomology-jumping calculation.
-- **[GROUPOID](https://github.com/smaniches/GROUPOID)** — pre-alpha groupoid/sheaf/Riemannian aggregation prototype for federated learning.
+- **[GROUPOID](https://github.com/smaniches/GROUPOID)** — pre-alpha groupoid/sheaf/Riemannian aggregation prototype for federated learning, with [reproducible six-seed neural gauge evidence](https://github.com/smaniches/GROUPOID/tree/main/experiments/real_neural) and clearly scoped scientific limitations.
 
 ### AI safety / biosecurity research
 
